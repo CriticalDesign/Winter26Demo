@@ -1,0 +1,5 @@
+//this is code
+//because I'm a coder
+
+for(int i = 0; i < infinity; i++)
+	cout << "party on!!!";
